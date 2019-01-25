@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "24481281520",
+    "firebase_url": "https://just-arrived-8d6ec.firebaseio.com",
+    "project_id": "just-arrived-8d6ec",
+    "storage_bucket": "just-arrived-8d6ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24481281520:android:1c8fdf3a2993e6b4",
+        "android_client_info": {
+          "package_name": "app.JustArrived.harichand.com.JustArrived"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24481281520-02rjpt33ip5uo8l0i62qs9412ra225l8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.JustArrived.harichand.com.JustArrived",
+            "certificate_hash": "1da37517ea2c581a0a250b45ee788062b6a635bb"
+          }
+        },
+        {
+          "client_id": "24481281520-t107f5n5is35qb3rob7r24slqukp8nuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgXxRckZqfjdI1Gm8i0nbNyGvQGs54EFI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24481281520-t107f5n5is35qb3rob7r24slqukp8nuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
