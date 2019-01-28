@@ -16,7 +16,7 @@ import app.JustArrived.harichand.com.JustArrived.notification.NotificationHelper
  * Contains actions performed commonly on tasks. Both AlarmActivity and Notifications will be
  * using this.
  *
- * @author vernmyash8
+ * @author sreehari
  */
 public final class TaskActionUtils {
 

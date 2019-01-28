@@ -1,7 +1,7 @@
 package app.JustArrived.harichand.com.JustArrived.utils.firebase;
 
 /**
- * @author shilpi
+ * @author chandu
  */
 
 public class AnalyticsConstants {

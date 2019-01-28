@@ -22,7 +22,7 @@ import app.JustArrived.harichand.com.JustArrived.utils.AppUtils;
  * 2. Initiating the purchase flow for the given in-app product id.
  * 3. Consuming a purchase.
  *
- * @author vermayash8
+ * @author sreehari
  */
 public class BillingManager implements PurchasesUpdatedListener {
 

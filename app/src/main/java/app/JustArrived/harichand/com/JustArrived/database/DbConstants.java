@@ -8,7 +8,7 @@ import java.lang.annotation.RetentionPolicy;
 /**
  * Stores all the database related constants
  *
- * @author shilpi
+ * @author chandu
  */
 
 public class DbConstants {

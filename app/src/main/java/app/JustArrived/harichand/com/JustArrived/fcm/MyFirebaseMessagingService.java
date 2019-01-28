@@ -13,7 +13,7 @@ import app.JustArrived.harichand.com.JustArrived.notification.NotificationHelper
 /**
  * Handles the incoming FCM messages.
  *
- * @author vermayash8
+ * @author sreehari
  */
 public class MyFirebaseMessagingService extends FirebaseMessagingService {
 

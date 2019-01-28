@@ -17,7 +17,7 @@ import app.JustArrived.harichand.com.JustArrived.utils.TaskStateUtil;
 /**
  * Adapter for tasks.
  *
- * @author vermayash8
+ * @author sreehari
  */
 public final class TaskAdapter extends RecyclerView.Adapter<TaskAdapter.CustomViewHolder> {
 

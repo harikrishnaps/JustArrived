@@ -7,7 +7,7 @@ import android.content.Context;
  * version control. This file will have changes that won't be committed to version control
  * because of security risks. We'll have our public key signature verifying algorithms here.
  *
- * @author vermayash8
+ * @author sreehari
  */
 class SecurityUtils {
 

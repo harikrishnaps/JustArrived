@@ -7,7 +7,7 @@ import app.JustArrived.harichand.com.JustArrived.utils.TaskStateUtil;
  * A wrapper class for tasks and it's state as {STATE_ACTIVE_SNOOZED, STATE_ACTIVE_NOT_SNOOZED,
  * STATE_UPCOMING, STATE_EXPIRED, STATE_DONE}.
  *
- * @author
+ * @author sreehari
  */
 
 public class TaskStateWrapper {

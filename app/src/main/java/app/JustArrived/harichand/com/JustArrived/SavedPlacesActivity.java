@@ -21,7 +21,7 @@ import app.JustArrived.harichand.com.JustArrived.models.LocationModel;
  * location selected by the user is returned to the calling activity. The user can also choose to
  * delete mLocations.
  *
- * @author vermayash8
+ * @author sreehari
  */
 public class SavedPlacesActivity extends AppCompatActivity {
 

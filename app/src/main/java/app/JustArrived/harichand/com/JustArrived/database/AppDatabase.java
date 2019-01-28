@@ -14,7 +14,7 @@ import app.JustArrived.harichand.com.JustArrived.models.LocationModel;
 import app.JustArrived.harichand.com.JustArrived.models.TaskModel;
 
 /**
- * @author shilpi
+ * @author chandu
  */
 
 @Database(entities = {TaskModel.class, LocationModel.class}, version = 4)

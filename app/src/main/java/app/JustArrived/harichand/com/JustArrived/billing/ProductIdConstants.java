@@ -3,7 +3,7 @@ package app.JustArrived.harichand.com.JustArrived.billing;
 /**
  * Keeps the constants required for ProductId.
  *
- * @author vermayash8
+ * @author sreehari
  */
 public class ProductIdConstants {
 

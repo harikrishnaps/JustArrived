@@ -5,7 +5,7 @@ import android.util.Log;
 import com.google.firebase.messaging.FirebaseMessaging;
 
 /**
- * @author vermayash8
+ * @author sreehari
  */
 public class TopicSubscriber {
 

@@ -1,4 +1,4 @@
-package app.tasknearby.yashcreations.com.tasknearby;
+package app.JustArrived.harichand.com.JustArrived;
 
 /**
  * Instrumented test, which will execute on an Android device.

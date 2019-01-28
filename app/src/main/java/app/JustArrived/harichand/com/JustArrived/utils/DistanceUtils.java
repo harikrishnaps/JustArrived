@@ -12,7 +12,7 @@ import app.JustArrived.harichand.com.JustArrived.models.TaskModel;
 /**
  * Lists all distance utility functions.
  *
- * @author shilpi
+ * @author chandu
  */
 
 public class DistanceUtils {

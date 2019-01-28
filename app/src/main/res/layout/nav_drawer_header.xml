@@ -31,7 +31,7 @@
         android:paddingStart="8dp"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
 
-        android:text="Task Nearby"
+        android:text="Just Arrived"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
 
     <TextView

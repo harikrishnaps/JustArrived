@@ -1,4 +1,4 @@
-package app.tasknearby.yashcreations.com.tasknearby;
+package app.JustArrived.harichand.com.JustArrived;
 
 /**
  * Example local unit test, which will execute on the development machine (host).

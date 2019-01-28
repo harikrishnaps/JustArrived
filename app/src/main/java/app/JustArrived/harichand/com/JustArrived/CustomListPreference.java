@@ -11,7 +11,7 @@ import app.JustArrived.harichand.com.JustArrived.utils.AppUtils;
 /**
  * Custom Preference for Snooze selection which inhibits snooze time change on non-premium version.
  *
- * @author shilpi
+ * @author chandu
  */
 public class CustomListPreference extends ListPreference {
 

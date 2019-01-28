@@ -41,7 +41,7 @@ import app.JustArrived.harichand.com.JustArrived.AboutActivity;
 import app.JustArrived.harichand.com.JustArrived.OnboardingActivity;
 import app.JustArrived.harichand.com.JustArrived.SettingsActivity;
 import app.JustArrived.harichand.com.JustArrived.TaskCreatorActivity;
-import app.JustArrived.harichand.com.JustArrived.UpgradeActivity;
+//import app.JustArrived.harichand.com.JustArrived.UpgradeActivity;
 import app.JustArrived.harichand.com.JustArrived.billing.BillingManager;
 import app.JustArrived.harichand.com.JustArrived.billing.ProductIdConstants;
 import app.JustArrived.harichand.com.JustArrived.fcm.TopicSubscriber;
@@ -276,7 +276,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView
                 startActivity(new Intent(this, AboutActivity.class));
                 break;
             case R.id.premium:
-                UpgradeActivity.show(this);
+                //UpgradeActivity.show(this);
                 break;
         }
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
