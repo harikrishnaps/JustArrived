@@ -68,7 +68,7 @@ import app.JustArrived.harichand.com.JustArrived.utils.firebase.AnalyticsConstan
  * Creates a new task and also responsible for editing an old one. For editing, we need to use
  * the getEditModeIntent() method to get the starting intent.
  *
- * @author vermayash8
+ * @author sreehari
  */
 public class TaskCreatorActivity extends AppCompatActivity implements View.OnClickListener {
 

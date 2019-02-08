@@ -36,7 +36,7 @@ import static app.JustArrived.harichand.com.JustArrived.R.string.pref_vibrate_ke
 /**
  * Manages the settings/preferences.
  *
- * @author shilpi
+ * @author chandu
  */
 public class SettingsActivity extends AppCompatActivity {
 

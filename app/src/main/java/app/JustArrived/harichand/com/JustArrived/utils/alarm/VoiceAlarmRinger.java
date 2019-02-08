@@ -18,7 +18,7 @@ import app.JustArrived.harichand.com.JustArrived.models.TaskModel;
 /**
  * Voice alerts(reminders).
  *
- * @author shilpi
+ * @author chandu
  */
 
 public class VoiceAlarmRinger implements TextToSpeech.OnInitListener {

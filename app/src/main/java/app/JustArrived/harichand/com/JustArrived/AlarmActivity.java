@@ -39,7 +39,7 @@ import app.JustArrived.harichand.com.JustArrived.utils.firebase.AnalyticsConstan
 /**
  * Shows the alarm screen with ringing the alarm tone selected by the user.
  *
- * @author vermayash8
+ * @author sreehari
  */
 public class AlarmActivity extends AppCompatActivity implements OnMapReadyCallback {
 

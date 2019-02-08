@@ -8,7 +8,7 @@ import org.joda.time.LocalTime;
 /**
  * Converts LocalTime to/from String
  *
- * @author shilpi
+ * @author chandu
  */
 
 public class TimeConverter {

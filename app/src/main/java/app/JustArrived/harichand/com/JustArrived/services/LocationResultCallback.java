@@ -22,7 +22,7 @@ import app.JustArrived.harichand.com.JustArrived.utils.TaskStateUtil;
 /**
  * Receives location result callbacks and check for tasks for which an action has to be taken.
  *
- * @author shilpi
+ * @author chandu
  */
 public class LocationResultCallback extends LocationCallback {
 

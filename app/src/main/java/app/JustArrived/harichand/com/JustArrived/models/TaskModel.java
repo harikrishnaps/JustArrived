@@ -25,7 +25,7 @@ import app.JustArrived.harichand.com.JustArrived.database.converters.TimeConvert
  * entity that will be stored by {@link androidx.room.Room} into the SQLite
  * database.
  *
- * @author shilpi
+ * @author chandu
  */
 @Entity(tableName = "tasks",
         foreignKeys = {

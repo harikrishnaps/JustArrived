@@ -54,7 +54,7 @@ import app.JustArrived.harichand.com.JustArrived.utils.firebase.AnalyticsConstan
  * Shows the list of tasks segregated into categories when the app loads. This activity also
  * contains the switch that will turn the app's service on or off.
  *
- * @author vermayash8
+ * @author sreehari
  */
 public class MainActivity extends AppCompatActivity implements NavigationView
         .OnNavigationItemSelectedListener, BillingManager.BillingUpdatesListener {

@@ -27,7 +27,7 @@ import app.JustArrived.harichand.com.JustArrived.utils.firebase.AnalyticsConstan
 /**
  * Shows a list of premium features and provides an option to purchase them.
  *
- * @author vermayash8
+ * @author sreehari
  */
 public class UpgradeActivity extends AppCompatActivity implements BillingManager
         .BillingUpdatesListener {

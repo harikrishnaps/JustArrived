@@ -15,7 +15,7 @@ import app.JustArrived.harichand.com.JustArrived.R;
 /**
  * Handles the ringing functionality for the alarm.
  *
- * @author vermayash8
+ * @author sreehari
  */
 public class AlarmRinger {
 

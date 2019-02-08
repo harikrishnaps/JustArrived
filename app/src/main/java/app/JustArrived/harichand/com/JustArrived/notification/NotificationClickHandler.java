@@ -17,7 +17,7 @@ import app.JustArrived.harichand.com.JustArrived.utils.firebase.AnalyticsConstan
 /**
  * Handles the notification action button click events.
  *
- * @author vermayash8
+ * @author sreehari
  */
 public class NotificationClickHandler extends BroadcastReceiver {
 

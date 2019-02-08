@@ -3,7 +3,7 @@ package app.JustArrived.harichand.com.JustArrived.notification;
 /**
  * Stores the notification constants.
  *
- * @author vermayash8
+ * @author sreehari
  */
 public final class NotificationConstants {
 

@@ -10,7 +10,7 @@ import com.google.firebase.messaging.FirebaseMessaging;
 /**
  * Generates FCM token and subscribes to topics.
  *
- * @author vermayash8
+ * @author sreehari
  */
 public class MyFirebaseInstanceIDService extends FirebaseInstanceIdService {
 

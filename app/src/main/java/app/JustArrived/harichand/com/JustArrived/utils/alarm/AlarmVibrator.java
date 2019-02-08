@@ -12,7 +12,7 @@ import app.JustArrived.harichand.com.JustArrived.R;
 /**
  * Vibrates as per the user's preferences.
  *
- * @author vermayash8
+ * @author sreehari
  */
 public class AlarmVibrator {
 

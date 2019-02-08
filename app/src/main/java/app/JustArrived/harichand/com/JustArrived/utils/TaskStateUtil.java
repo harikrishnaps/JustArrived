@@ -25,7 +25,7 @@ import app.JustArrived.harichand.com.JustArrived.models.TaskModel;
  * A utility class for task's state as {STATE_ACTIVE_SNOOZED, STATE_ACTIVE_NOT_SNOOZED,
  * STATE_UPCOMING, STATE_EXPIRED, STATE_DONE}.
  *
- * @author shilpi
+ * @author chandu
  */
 
 public class TaskStateUtil {

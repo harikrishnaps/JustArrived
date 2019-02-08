@@ -1,7 +1,7 @@
 package app.JustArrived.harichand.com.JustArrived.services;
 
 /**
- * @author shilpi
+ * @author chandu
  */
 
 class ServiceConstants {

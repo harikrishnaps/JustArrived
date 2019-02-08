@@ -7,7 +7,7 @@ import org.joda.time.LocalDate;
 /**
  * Converts Date to/from Long
  *
- * @author shilpi
+ * @author chandu
  */
 
 

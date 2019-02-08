@@ -39,7 +39,7 @@ import app.JustArrived.harichand.com.JustArrived.notification.NotificationHelper
 /**
  * Set location updates on based on detected activities.
  *
- * @author shilpi
+ * @author chandu
  */
 
 public class FusedLocationService extends Service {

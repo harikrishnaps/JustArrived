@@ -23,7 +23,7 @@ import app.JustArrived.harichand.com.JustArrived.utils.TaskStateUtil;
 /**
  * Fragment to display a list of tasks present in the database.
  *
- * @author vermayash8
+ * @author sreehari
  */
 public class TasksFragment extends Fragment {
 

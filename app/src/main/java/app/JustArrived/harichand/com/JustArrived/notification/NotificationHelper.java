@@ -27,7 +27,7 @@ import app.JustArrived.harichand.com.JustArrived.utils.firebase.AnalyticsConstan
 /**
  * Handles the notifications thrown by the app and their associated actions.
  *
- * @author vermayash8
+ * @author sreehari
  */
 public class NotificationHelper {
 

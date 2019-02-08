@@ -30,7 +30,7 @@ import app.JustArrived.harichand.com.JustArrived.services.FusedLocationService;
 /**
  * Contains utility functions used throughout the app.
  *
- * @author vermayash8
+ * @author sreehari
  */
 public final class AppUtils {
 

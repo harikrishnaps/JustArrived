@@ -14,7 +14,7 @@ import java.util.ArrayList;
  * IntentService for handling incoming intents that are generated as a result of requesting
  * device activity updates.
  *
- * @author shilpi
+ * @author chandu
  */
 
 public class ActivityDetectionService extends IntentService {

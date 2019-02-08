@@ -12,7 +12,7 @@ import app.JustArrived.harichand.com.JustArrived.database.converters.DateConvert
 
 
 /**
- * @author shilpi
+ * @author chandu
  */
 
 @Entity(tableName = "locations")

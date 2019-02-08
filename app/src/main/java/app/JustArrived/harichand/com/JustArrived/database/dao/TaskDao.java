@@ -12,7 +12,7 @@ import java.util.List;
 import app.JustArrived.harichand.com.JustArrived.models.TaskModel;
 
 /**
- * @author shilpi
+ * @author chandu
  */
 @Dao
 public interface TaskDao {

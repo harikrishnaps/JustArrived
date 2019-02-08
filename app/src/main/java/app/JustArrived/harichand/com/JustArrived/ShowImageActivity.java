@@ -16,7 +16,7 @@ import app.JustArrived.harichand.com.JustArrived.utils.firebase.AnalyticsConstan
 /**
  * Displays an image on the screen.
  *
- * @author vermayash8
+ * @author sreehari
  */
 public class ShowImageActivity extends AppCompatActivity {
 

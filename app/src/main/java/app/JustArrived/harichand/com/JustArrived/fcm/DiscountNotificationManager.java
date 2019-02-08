@@ -11,7 +11,7 @@ import app.JustArrived.harichand.com.JustArrived.utils.AppUtils;
  * Decides if the discount notification should be shown or not. If yes, then it triggers the
  * notification.
  *
- * @author vermayash8
+ * @author sreehari
  */
 final class DiscountNotificationManager {
 
