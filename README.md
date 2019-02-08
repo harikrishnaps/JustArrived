@@ -1,4 +1,4 @@
-# JustArrived
+
 <h2>JustArrived</h2>
 <h5>Tailor made location reminders, just for you.</h5>
 <!-- [![Build Status](https://travis-ci.org/vermayash8/TaskNearby.svg?branch=master)](https://travis-ci.org/vermayash8/TaskNearby) -->
