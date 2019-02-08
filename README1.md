@@ -1,4 +1,4 @@
-<h2>TaskNearby</h2>
+<h2>JustArrived</h2>
 <h5>Tailor made location reminders, just for you.</h5>
 <!-- [![Build Status](https://travis-ci.org/vermayash8/TaskNearby.svg?branch=master)](https://travis-ci.org/vermayash8/TaskNearby) -->
 
@@ -11,7 +11,7 @@
 <img src="screenshots/screener_1516962883999.png" height="30%" width="30%">&nbsp;
 <img src="screenshots/screener_1516971682803.png" height="30%" width="30%">&nbsp;
 
-Task Nearby provides elegantly designed, easy to use location reminders which are highly personalized for you.
+JustArrived provides elegantly designed, easy to use location reminders which are highly personalized for you.
 
 <h5>Battery efficient</h5>
 The app utilizes the device battery in the most efficient and productive way possible. It intelligently monitors device motion and turns off gps when not required.
