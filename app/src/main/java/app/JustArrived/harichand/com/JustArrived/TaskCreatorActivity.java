@@ -208,10 +208,6 @@ public class TaskCreatorActivity extends AppCompatActivity implements View.OnCli
         weekdaysStub = findViewById(R.id.viewStub_repeat);
         locationRecyclerView = findViewById(R.id.recycler_view_location);
         saveButton = findViewById(R.id.button_save);
-        upgradeAttachmentButton = findViewById(R.id.button_upgrade_attachment);
-        upgradeScheduleButton = findViewById(R.id.button_upgrade_schedule);
-        lockLayoutAttachment = findViewById(R.id.ll_premium_overlay_lock_attachment);
-        lockLayoutSchdule = findViewById(R.id.ll_premium_overlay_lock_schedule);
 
         // setting on click listeners
         attachmentTitleLayout.setOnClickListener(this);
@@ -223,10 +219,7 @@ public class TaskCreatorActivity extends AppCompatActivity implements View.OnCli
         endTimeLayout.setOnClickListener(this);
         selectLocationLayout.setOnClickListener(this);
         saveButton.setOnClickListener(this);
-        upgradeScheduleButton.setOnClickListener(this);
-        upgradeAttachmentButton.setOnClickListener(this);
-        lockLayoutAttachment.setOnClickListener(this);
-        lockLayoutSchdule.setOnClickListener(this);
+
 
         // setting defaults and other settings
 
@@ -302,14 +295,8 @@ public class TaskCreatorActivity extends AppCompatActivity implements View.OnCli
             case R.id.button_save:
                 saveTask();
                 break;
-            case R.id.button_upgrade_attachment:
-            case R.id.button_upgrade_schedule:
-            case R.id.ll_premium_overlay_lock_attachment:
-            case R.id.ll_premium_overlay_lock_schedule:
-                mFirebaseAnalytics.logEvent(AnalyticsConstants.PREMIUM_DIALOG_REQUESTED_BY_BUTTON,
-                        new Bundle());
-                UpgradeActivity.show(TaskCreatorActivity.this);
-                break;
+
+
 
         }
     }
@@ -849,7 +836,7 @@ public class TaskCreatorActivity extends AppCompatActivity implements View.OnCli
         super.onStart();
         // Setting in onStart so that when the upgrade activity closes, the lock layout refreshes
         // taking into account the purchase(if any).
-        setPremiumLock();
+
     }
 
     private void setPremiumLock() {
@@ -859,8 +846,7 @@ public class TaskCreatorActivity extends AppCompatActivity implements View.OnCli
             noteInput.setFocusable(true);
             noteInput.setFocusableInTouchMode(true);
         } else {
-            lockLayoutSchdule.setVisibility(View.VISIBLE);
-            lockLayoutAttachment.setVisibility(View.VISIBLE);
+
             noteInput.setFocusable(true);
             // The note input can still gain focus by clicking enter button on keyboard,
             // to avoid this, set it as not focusable.

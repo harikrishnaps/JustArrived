@@ -24,7 +24,7 @@ android {
         // also, a different icon will be set for debug (see project structure).
 
         //apply plugin: 'build-announcements'
-        //applicationIdSuffix '.debug'
+        //applicationIdSuffix '.debugaa'
         //}
         release {
             minifyEnabled true

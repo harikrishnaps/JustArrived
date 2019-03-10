@@ -93,32 +93,6 @@
                         layout="@layout/content_creator_attachment"
                         android:visibility="visible" />
 
-                    <LinearLayout
-                        android:id="@+id/ll_premium_overlay_lock_attachment"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:layout_marginBottom="8dp"
-                        android:layout_marginEnd="8dp"
-                        android:layout_marginStart="8dp"
-                        android:layout_marginTop="8dp"
-                        android:background="@drawable/background_premium_lock"
-                        android:clickable="true"
-                        android:gravity="center"
-                        android:orientation="vertical"
-                        android:visibility="gone">
-
-                        <ImageView
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            app:srcCompat="@drawable/ic_lock_outline_grey_600_48dp" />
-
-                        <Button
-                            android:id="@+id/button_upgrade_attachment"
-                            style="@style/Widget.AppCompat.Button.Colored"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="@string/creator_action_upgrade_to_premium" />
-                    </LinearLayout>
                 </FrameLayout>
             </LinearLayout>
         </androidx.cardview.widget.CardView>
@@ -180,34 +154,6 @@
                     <include
                         layout="@layout/content_creator_schedule"
                         android:visibility="visible" />
-
-                    <LinearLayout
-                        android:id="@+id/ll_premium_overlay_lock_schedule"
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:layout_marginBottom="8dp"
-                        android:layout_marginEnd="8dp"
-                        android:layout_marginStart="8dp"
-                        android:layout_marginTop="8dp"
-                        android:background="@drawable/background_premium_lock"
-                        android:clickable="true"
-                        android:gravity="center"
-                        android:orientation="vertical"
-                        android:visibility="gone">
-
-                        <ImageView
-                            android:id="@+id/imageView5"
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            app:srcCompat="@drawable/ic_lock_outline_grey_600_48dp" />
-
-                        <Button
-                            android:id="@+id/button_upgrade_schedule"
-                            style="@style/Widget.AppCompat.Button.Colored"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="@string/creator_action_upgrade_to_premium" />
-                    </LinearLayout>
 
                 </FrameLayout>
 
